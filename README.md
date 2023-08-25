@@ -2,17 +2,11 @@
 <h1 align="center">Hi 👋, I'm Sangeeth Sujith</h1>
 <h3 align="center">A Passionate Student from and working in India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SangeethSujith&label=Profile%20views&color=0e75b6&style=flat" alt="SangeethSujith" /> </p>
-
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-- 🔭 I’m currently working on [ Trello clone using NextJS ](https://github.com/SangeethSujith/trello-appwrite-next)
-
 - 🌱 I’m currently learning **NextJS**
-
-<!-- - 👨‍💻 All of my projects are available at [https://nevilportfolio.vercel.app/](https://nevilportfolio.vercel.app/) -->
 
 - 📫 How to reach me **sangeethps2255@gmail.com**
 
