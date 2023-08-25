@@ -14,14 +14,14 @@
 
 - 👨‍💻 All of my projects are available at [https://nevilportfolio.vercel.app/](https://nevilportfolio.vercel.app/)
 
-- 📫 How to reach me **nevilkrishna@gmail.com**
+- 📫 How to reach me **sangeethps2255@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dracu-lah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@dracu-lah" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nevil-krishna-k-77170222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nevil krishna k" height="30" width="40" /></a>
-<a href="https://fb.com/nevilkrishnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nevilkrishnak" height="30" width="40" /></a>
-<a href="https://instagram.com/_dracu.la_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dracu.la_" height="30" width="40" /></a>
+<a href="https://twitter.com/Offensivetech69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dracu-lah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sangeeth-sujith-361b06210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nevil krishna k" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sangeeth.sujith.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nevilkrishnak" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the__john__wick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dracu.la_" height="30" width="40" /></a>
 </p>
 
 
